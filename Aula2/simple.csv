@@ -1,0 +1,37 @@
+UserID,ItemID,Rating
+Severino,Cella,5
+James,Cella,4 
+Tarantino,Cella,5
+Helio,Cella,3
+Pedro,Cella,3
+Elias,Cella,2
+Severino,Black Tower,3
+James,Black Tower,3 
+Tarantino,Black Tower,2
+Helio,Black Tower,5
+Pedro,Black Tower,3
+Elias,Black Tower,3
+Severino,Alorna,0
+James,Alorna,4 
+Tarantino,Alorna,5
+Helio,Alorna,3
+Pedro,Alorna,3
+Elias,Alorna,2
+Severino,Reservado,2
+James,Reservado,0
+Tarantino,Reservado,2
+Helio,Reservado,0
+Pedro,Reservado,2
+Elias,Reservado,3
+Severino,Gato Negro,2
+James,Gato Negro,3  
+Tarantino,Gato Negro,1
+Helio,Gato Negro,1
+Pedro,Gato Negro,4
+Elias,Gato Negro,5
+Severino,Toro,2
+James,Toro,3  
+Tarantino,Toro,1
+Helio,Toro,1
+Pedro,Toro,5
+Elias,Toro,5

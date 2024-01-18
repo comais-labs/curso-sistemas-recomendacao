@@ -1,0 +1,8 @@
+ipykernel
+pandas
+scikit-learn
+plotly
+tqdm
+scipy
+rich
+nbformat
